@@ -81,10 +81,11 @@ Each agent has a clear medical role (e.g., Symptom Interpreter, Vital Sign Analy
    ```
 
 4. **Add Your API Key**
+   
    Replace the API key in `app.py` (GeminiLLM class) with your own [Google AI Studio](https://makersuite.google.com/) API key.
 
 
-5. **Run the App**
+6. **Run the App**
    ```bash
    streamlit run app.py
    ```
