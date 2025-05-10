@@ -98,7 +98,7 @@ Each agent has a clear medical role (e.g., Symptom Interpreter, Vital Sign Analy
 ```
 ai-diagnostic-assistant/
 │
-├── diagnostic_app.py          # Main Streamlit app with CrewAI logic
+├── app.py          # Main Streamlit app with CrewAI logic
 ├── requirements.txt           # Python dependencies
 ├── README.md                  # This file
 ```
