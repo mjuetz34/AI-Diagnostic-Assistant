@@ -85,10 +85,21 @@ Each agent has a clear medical role (e.g., Symptom Interpreter, Vital Sign Analy
    Replace the API key in `app.py` (GeminiLLM class) with your own [Google AI Studio](https://makersuite.google.com/) API key.
 
 
-6. **Run the App**
+5. **Run the App**
    ```bash
    streamlit run app.py
    ```
+   
+6. **Sample Input**
+
+   - Symptoms: swelling in legs, fatigue, reduced urine output, nausea
+   - Body Temperature: 98.7
+   - Blood Pressure: 145/95
+   - Pulse Rate: 88
+   - Lab Results: Creatinine 3.5, BUN 52, Hb 9.8
+   - History: diabetes, hypertension
+  
+   When you enter these inputs and run the program one of the probable diagnosis should be Chronic Kidney Disease (CKD) as these are the symptoms of CKD.
 
 
 ---
