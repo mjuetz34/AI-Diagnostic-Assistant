@@ -28,7 +28,7 @@ if submitted:
         def __init__(self, model_name="gemini/gemini-2.0-flash-lite", temperature=0.2):
             self.model_name = model_name
             self.temperature = temperature
-            self.api_key = "AIzaSyCPj0blvKdy_cW8AxbDDqu5N9IHd5REpYc"
+            self.api_key = "[ADD_YOUR_GEMINI_API_KEY_HERE]"
 
         def run(self, messages):
             response = completion(
