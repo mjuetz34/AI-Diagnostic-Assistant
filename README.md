@@ -65,7 +65,7 @@ Each agent has a clear medical role (e.g., Symptom Interpreter, Vital Sign Analy
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/your-username/ai-diagnostic-assistant.git
+   git clone https://github.com/SrujanPR/AI-Diagnostic-Assistant.git
    cd ai-diagnostic-assistant
    ```
 
