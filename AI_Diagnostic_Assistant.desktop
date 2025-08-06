@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=AI Diagnostic Assistant
+Comment=KI-gestützter Diagnose-Assistent für abgelegene Gebiete
+Exec=/workspace/start_app.sh
+Icon=applications-science
+Terminal=true
+Categories=Science;Medical;Education;
+Keywords=medical;diagnosis;AI;healthcare; 
